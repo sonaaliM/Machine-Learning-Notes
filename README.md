@@ -1,4 +1,4 @@
-# Machine-Learning-Notes
+# Machine Learning Notes
 Notes on Machine Learning
 
 [1. Machine Learning Basics](/Machine%20Learning%20Basics.ipynb)
